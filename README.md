@@ -1,7 +1,3 @@
-Absolutely — here’s your **final polished README** with all the details you gave, neatly organized and ready to use:
-
----
-
 # 🚀 Creative QR Code Generator
 
 A beautiful, dark-themed QR Code Generator built with **Node.js** and **Express**. This project features a stunning animated background, a modern user interface, and a welcoming intro screen. Instantly generate QR codes for any URL — in style!
